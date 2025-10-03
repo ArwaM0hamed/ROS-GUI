@@ -160,6 +160,7 @@ const move_right = () => {
 				console.log("Invalid Key");
 		}
 	}
+}
 </script>
 
 <main>
